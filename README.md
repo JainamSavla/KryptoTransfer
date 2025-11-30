@@ -1,3 +1,5 @@
+<img width="1562" height="723" alt="image" src="https://github.com/user-attachments/assets/99ea36d5-a6f0-48ae-961b-a50a92a33825" />
+
 # KryptoTransfer
 
 A Web3 decentralized application (dApp) for sending Ethereum across the world. Built with React, Solidity, and Hardhat.
